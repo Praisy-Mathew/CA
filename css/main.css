@@ -2852,7 +2852,7 @@ select::-ms-expand {
     	HOME 5 FUN FACT AREA       
 -----------------------------------------*/
 .fun-fact-area{
-	background: url(../images/fun-fact-area-bg.png);
+	background: url(../images/about1.webp);
 	background-size: cover;
 	padding-bottom: 80px;
 	position: relative;
@@ -3330,7 +3330,7 @@ select::-ms-expand {
     	HOME 9 HELP AREA      
 -----------------------------------------*/
 .home-9-trust{
-	background: url(../images/home-9-slider-bg.png);
+	background: url(../images/about1.webp);
     background-size: cover;
     position: relative;
     padding: 100px 0px;
